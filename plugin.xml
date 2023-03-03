@@ -68,7 +68,6 @@
 
         <config-file target="AndroidManifest.xml" parent="/manifest">
                 <uses-permission android:name="android.permission.REORDER_TASKS"/>
-                <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
                 <uses-permission android:name="android.permission.CAMERA" />
                 <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
         </config-file>
